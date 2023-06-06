@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vietvu001/Set%20up%20your%20Azure%20DevOps%20environment/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/vietvu001/Set%20up%20your%20Azure%20DevOps%20environment/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
